@@ -4,7 +4,7 @@ I am a 3rd year student of Bartın University Management Information Systems. I 
 
 Skills: PHP / DELPHİ / GO / HTML / CSS
 
-- 🔭 I’m currently working on Ctber Security. 
+- 🔭 I’m currently working on Cyber Security. 
 - 🌱 I’m currently learning Red Team. 
 
 
