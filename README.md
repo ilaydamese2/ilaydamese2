@@ -1,8 +1,8 @@
 ### Hi there 👋, İlayda Meşe
 #### Cyber Security
-I am a 3rd year student of Bartın University Management Information Systems. I am working on the software field and the Cyber ​​Security sector. I am in the RED TEAM unit of Siber Vatan's Yavuzlar Web Security team.
+I am a 4rd year student of Bartın University Management Information Systems. I am working on the software field and the Cyber ​​Security sector. I am in the RED TEAM unit of Siber Vatan's Yavuzlar Web Security team.
 
-Skills: PHP / DELPHİ / GO / HTML / CSS / JAVASCRIPT
+Skills: PHP / DELPHİ / GO / HTML / CSS / JAVASCRIPT / JAVA
 
 - 🔭 I’m currently working on Cyber Security. 
 - 🌱 I’m currently learning Red Team. 
